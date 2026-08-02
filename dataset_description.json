@@ -43,8 +43,8 @@
         }
     ],
     "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
-    "License": "MIT",
-    "Name": "QSIRecon output",
+    "License": "CC0",
+    "Name": "GRMPY: QSIRecon Derivatives",
     "PipelineDescription": {
         "CodeURL": "https://github.com/PennLINC/qsiprep/archive/1.0.2.dev0+gfc89945.d20250405.tar.gz",
         "Name": "qsiprep",
