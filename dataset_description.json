@@ -55,5 +55,6 @@
             "BIDS": "https://openneuro.org/datasets/ds008579",
             "QSIPrep": "https://openneuro.org/datasets/ds008328"
         }
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008547.v1.0.1"
 }
